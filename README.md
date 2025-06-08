@@ -57,5 +57,5 @@ By collecting data every week over a year, the client will be able to uncover pa
 
 
 
-_This project showcases the end-to-end data engineering lifecycle with real-world architecture, designed to support analytics on top global Spotify music trends._
+
 
